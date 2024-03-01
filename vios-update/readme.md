@@ -17,4 +17,4 @@ where,
 - ```<sftp_password>``` = Password of the sftp host used to download fix pack.
 - ```<vios_version>``` = VIOS level to which the VIOS is to be updated.
 ```bash 
-vios_update.sh  --remote-host <vios_ip> --remote-user <vios_username> --remote-password <vios_password> --sftp-doamin <sftp_host> --sftp-user <sftp_username> --sftp-password <sftp_password> --vios-fix <vios_version>```
+vios_update.sh  --remote-host <vios_ip> --remote-user <vios_username> --remote-password <vios_password> --sftp-doamin <sftp_host> --sftp-user <sftp_username> --sftp-password <sftp_password> --vios-fix <vios_version>
